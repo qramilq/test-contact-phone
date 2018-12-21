@@ -52,7 +52,7 @@ export default class ContactForm extends React.Component {
             options={cleaveOptions}
           />
         </FormGroup>
-        <Button>Submit</Button>
+        <Button>Save</Button>
       </Form>
     );
   }
